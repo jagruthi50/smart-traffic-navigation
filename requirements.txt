@@ -1,0 +1,6 @@
+# Python Version
+Python 3.x
+
+# Standard Libraries Used
+tkinter
+heapq
